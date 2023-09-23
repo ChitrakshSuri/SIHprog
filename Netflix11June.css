@@ -1,0 +1,195 @@
+*{
+    margin: 0px;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 66, 0.32), black) ,url(https://assets.nflxext.com/ffe/siteui/vlv3/76c10fc9-7ccd-4fbf-bc59-f16a468921ca/4fb4af6e-d0ca-4c7f-b004-b34226727e55/IN-en-20230529-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#netflix{
+    margin-bottom: 30px;
+    width: 200px;
+    margin-left: 130px;
+}
+
+.child{
+    margin-bottom: 30px;
+    margin-right: 170px;
+}
+
+.div1{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#language{
+    background-color: rgba(0, 0, 16, 0.5);
+    width: 140px;
+    height: 32px;
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px; */
+    padding: 6px 28px 6px 36px;
+    background-image: ;
+    border-radius: 5px;
+    border: 1px;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-right: 11px;
+    color: #ffffff;
+    border: 0.1px solid #ffffff;
+}
+
+#signin{
+    width: 76px;
+    height: 32px;
+    /* padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px; */
+    padding: 4px 16px;
+    border-radius: 5px;
+    border: 1px;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-style: normal;
+    color: #ffffff;
+    background-color: red;
+    font-size: 14px
+}
+
+.main-body{
+   width: 100%; 
+   height: 80%;
+   color: #ffffff;
+   display: flex;
+   justify-content: center;
+   /* align-items: center; */
+}
+
+.content1{
+    margin-top: 150px;
+    width: 100%;
+    /* margin-left: 400px;/ */
+    margin-bottom: 200px;
+}
+
+#a{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+    color: #ffffff;
+    
+}
+#b{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    color: #ffffff;
+    
+}
+#c{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    
+}
+
+#bottom{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+#email{
+    background-color: rgba(0, 0, 16, 0.5);
+    width: 444px;
+    height: 48px;
+    margin-right: 4px;
+    border-radius: 5px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 13px rgba(0, 0, 0, 0.219);
+    padding: 20px 16px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    /* line-height: 24px; */
+    /* color: rgba(255, 255, 255, 0.992) */
+    ;
+    color: black;
+    display: flex;
+    flex-shrink: 3;
+}
+
+#button{
+    width: 152px;
+    height: 48px;
+    margin-left: 4px;
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 13px rgba(0, 0, 0, 0.219);
+    background-color: red;
+    padding: 8px 16px;
+    font-family: sans-serif;
+    /* font-style: oblique; */
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+}
+/* PAGE-2 */
+.conatainer2{
+    background-image: url(https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149157312.jpg);
+    color: #ffffff;
+    margin: 0px;
+    display: flex;
+    /* justify-content: center; */
+    flex-wrap: wrap;
+    border-top: #2d2b2b solid 8px;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#content2{
+    width: 100%;
+    text-align: center;
+    /* margin-left: 200px; */
+}
+
+#d{
+    font-size: 48px;
+    font-family: "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;; 
+    font-weight: 900;
+
+}
+
+#e{
+    font-size: 24px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-weight: 400;
+
+}
+
+/* #tv{
+    width: 100%;
+    border: 0%;
+    letter-spacing: 0;
+    text-align: center;
+    color: #ffffff;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    width: 50%;
+} */
